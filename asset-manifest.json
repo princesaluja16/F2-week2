@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/F2-week2/static/css/main.cfb4c581.css",
+    "main.js": "/F2-week2/static/js/main.f5ccb15c.js",
+    "index.html": "/F2-week2/index.html",
+    "main.cfb4c581.css.map": "/F2-week2/static/css/main.cfb4c581.css.map",
+    "main.f5ccb15c.js.map": "/F2-week2/static/js/main.f5ccb15c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfb4c581.css",
+    "static/js/main.f5ccb15c.js"
+  ]
+}
